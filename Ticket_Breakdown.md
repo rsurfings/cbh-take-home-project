@@ -37,7 +37,7 @@ Update the API and the client-side code to include the new custom ID field.
 - Ticket 2: Update the Agent creation and editing forms to include the custom ID field
 
 Description: In order to allow Facilities to save their own custom ids for each Agent they work with, we need to update the Agent creation and editing forms to include the custom ID field.
- 
+
 Acceptance Criteria:
 
 The Agent creation and editing forms include the custom ID field.
